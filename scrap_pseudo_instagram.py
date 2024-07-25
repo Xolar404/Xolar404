@@ -24,7 +24,7 @@ def accept_coockies():
 
 accept_coockies()
 
-def login(pseudo="dinoriy9512024", password="Attention12!"):
+def login(pseudo="YOUR PSEUDO", password="YOUR PASSWORD"):
 
     username = driver.find_element(By.NAME, "username")
     username.click()
